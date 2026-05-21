@@ -3,25 +3,44 @@
 
 ## 📌 Desafio Escolhido
 
-Descreva aqui o desafio proposto pelo grupo (ex.: cadastro de usuários, automação de envio de e-mails, integração com API de IA).
+Plataforma que conecta fãs brasileiros da NBA aos melhores jogos e voos para assistir partidas ao vivo nos EUA.
+
+Público-alvo:
+Fãs da NBA no Brasil, apaixonados por basquete, viagens e experiências esportivas internacionais.
+
+Problema: 
+Fãs no Brasil querem assistir aos jogos da NBA de forma presencial, lá nos EUA, porém não sabem quais vôos, de quais companhias e quais dias/horário pegar para assistir ao jogo do time de coração.
+
+Objetivo principal do site:
+Ajudar fãs brasileiros da NBA a encontrarem facilmente jogos do seu time favorito e descobrir quais voos pegar, em quais datas e horários, para chegar ao local da partida com pelo menos 24 horas de antecedência.
 
 ---
 
 ## 🖥️ Protótipo
 
-- Prints das telas ou link para a aplicação criada.
+Link do protótipo:
+https://github.com/GuilhermeGPF0601/engenhariaDePromptAplicacoesAI/tree/main/projetoModulo3
 
-- Breve explicação de como o protótipo funciona.
-
-> Coloque os arquivos de imagem ou PDF na pasta `/docs`.
+O protótipo funciona como uma plataforma interativa onde o usuário escolhe seu time ou partida da NBA e visualiza informações completas do jogo, como data, horário e local. A partir dessa seleção, o sistema recomenda voos do Brasil para os EUA que permitam chegar com pelo menos 24 horas de antecedência, exibindo opções de companhias aéreas, horários, escalas e preços em uma interface moderna, responsiva e inspirada em sites de viagens e na identidade visual da NBA.
 
 ---
 
 ## ⚙️ Plataforma Utilizada
 
-- Nome da plataforma (ex.: Bubble, Make, Pipedream).
+- VS Code
 
-- Justificativa da escolha: por que essa ferramenta foi selecionada para o desafio?
+- Motivo da escolha:
+Ele oferece um ambiente leve, rápido e completo para desenvolvimento, com suporte a diversas linguagens, terminal integrado, extensões, organização de arquivos e ferramentas que facilitam a criação, teste e manutenção do site de forma mais prática e produtiva.
+
+- Open IA ChatGPT
+
+- Motivo da escolha:
+Transforma uma ideia inicial em uma descrição completa, organizada e detalhada, facilitando o desenvolvimento do protótipo. A IA consegue estruturar funcionalidades, definir identidade visual, sugerir tecnologias, melhorar a experiência do usuário e deixar o prompt mais claro para ferramentas de criação de sites, designers ou desenvolvedores, economizando tempo e aumentando a qualidade do resultado final.
+
+- Claude
+
+- Motivo da escolha:
+Acelera o desenvolvimento, ajudando a gerar componentes, estruturas de páginas, estilos e funcionalidades de forma rápida e organizada. A IA auxilia na criação de códigos mais limpos, na sugestão de melhorias de interface e experiência do usuário, além de facilitar correções e otimizações durante o desenvolvimento do projeto.
 
 ---
 
