@@ -27,17 +27,17 @@ O protótipo funciona como uma plataforma interativa onde o usuário escolhe seu
 
 ## ⚙️ Plataforma Utilizada
 
-- VS Code
+- ### VS Code
 
 - Motivo da escolha:
 Ele oferece um ambiente leve, rápido e completo para desenvolvimento, com suporte a diversas linguagens, terminal integrado, extensões, organização de arquivos e ferramentas que facilitam a criação, teste e manutenção do site de forma mais prática e produtiva.
 
-- Open IA ChatGPT
+- ### Open IA ChatGPT
 
 - Motivo da escolha:
 Transforma uma ideia inicial em uma descrição completa, organizada e detalhada, facilitando o desenvolvimento do protótipo. A IA consegue estruturar funcionalidades, definir identidade visual, sugerir tecnologias, melhorar a experiência do usuário e deixar o prompt mais claro para ferramentas de criação de sites, designers ou desenvolvedores, economizando tempo e aumentando a qualidade do resultado final.
 
-- Claude
+- ### Claude
 
 - Motivo da escolha:
 Acelera o desenvolvimento, ajudando a gerar componentes, estruturas de páginas, estilos e funcionalidades de forma rápida e organizada. A IA auxilia na criação de códigos mais limpos, na sugestão de melhorias de interface e experiência do usuário, além de facilitar correções e otimizações durante o desenvolvimento do projeto.
@@ -46,37 +46,48 @@ Acelera o desenvolvimento, ajudando a gerar componentes, estruturas de páginas,
 
 ## ✅ Vantagens Identificadas
 
-Liste pelo menos **3 vantagens** percebidas no uso da abordagem low code/no code/vibecode:
-
-1. Protótipo rápido
-
-2. Integração simples
-
-3. Automação de processos
+1. Desenvolvimento mais rápido de protótipos e funcionalidades.
+2. Menor necessidade de conhecimento avançado em programação.
+3. Facilidade para realizar alterações e atualizações no sistema.
+4. Redução de custos e tempo no desenvolvimento do projeto.
+5. Maior produtividade na criação de interfaces modernas e responsivas.
 
 ---
 
 ## ⚠️ Limitações Encontradas
 
-Liste pelo menos **3 limitações** percebidas:
-
-1. Customização limitada
-
-2. Dependência da plataforma
-
-3. Risco de lock-in tecnológico
+1. Limitação de personalização em funcionalidades muito específicas ou complexas.
+2. Dependência das ferramentas e plataformas utilizadas no desenvolvimento.
+3. Possíveis dificuldades de escalabilidade em projetos muito grandes.
+4. Menor controle técnico sobre otimização, desempenho e estrutura interna do código.
 
 ---
 
 ## 📚 Reflexão Crítica
 
-Explique como o grupo lidou com as limitações e quais soluções criativas foram propostas para contorná-las.
+1. ### Limitação de personalização:
+Complementamos o low code/no code com código tradicional em partes específicas do sistema quando necessário.
+
+3. ### Dependência das plataformas: 
+Utilizamos ferramentas populares e bem documentadas, além de manter backups e exportações do projeto.
+
+4. ### Dificuldades de escalabilidade: 
+Organizamos o sistema de forma modular e planejamos integrações com tecnologias mais robustas conforme o crescimento do projeto.
+
+5. ### Menor controle técnico: 
+Realizamos testes frequentes, revisões de código e otimizações manuais nas partes mais importantes do site.
 
 ---
 
 ## 👥 Colaboração
 
-Descreva como o grupo organizou as tarefas e responsabilidades entre os integrantes.
+- ### Samuel Davi:
+* Idealização do projeto
+* Criação do prompt inicial
+
+- ### Miguel:
+* Aprimoramentos do código usando o Claude
+* Refinação do prompt
 
 ---
 
@@ -94,6 +105,7 @@ Professor(a): Kadidja Valéria
 
 ## 🚀 Próximos Passos
 
-- Melhorias sugeridas para o protótipo.
-
-- Possíveis evoluções para o Projeto Final da Unidade 3.
+- Adicionar mais funcionalidades no site, para curiosos e entusiastas
+- Integrar links de sites de companhias aéreas em nosso site, para atualizações ao vivo das passagens
+- Integrar o calendário real dos jogos da NBA, para atualizações ao vivo dos jogos
+  
