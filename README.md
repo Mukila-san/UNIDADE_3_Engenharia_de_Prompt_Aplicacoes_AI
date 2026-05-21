@@ -5,13 +5,13 @@
 
 Plataforma que conecta fãs brasileiros da NBA aos melhores jogos e voos para assistir partidas ao vivo nos EUA.
 
-Público-alvo:
+# Público-alvo:
 Fãs da NBA no Brasil, apaixonados por basquete, viagens e experiências esportivas internacionais.
 
-Problema: 
+# Problema: 
 Fãs no Brasil querem assistir aos jogos da NBA de forma presencial, lá nos EUA, porém não sabem quais vôos, de quais companhias e quais dias/horário pegar para assistir ao jogo do time de coração.
 
-Objetivo principal do site:
+# Objetivo principal do site:
 Ajudar fãs brasileiros da NBA a encontrarem facilmente jogos do seu time favorito e descobrir quais voos pegar, em quais datas e horários, para chegar ao local da partida com pelo menos 24 horas de antecedência.
 
 ---
