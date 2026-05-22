@@ -1,5 +1,5 @@
 # Sente a Quadra!
-# Projeto Módulo 3 – Low Code/No Code/Vibecode
+# Projeto Módulo 3 – No Code/Vibecode
 # Equipe: Lucas Gonçalves, Miguel Henrique, Samuel Davi
 
 ## 📌 Desafio Escolhido
