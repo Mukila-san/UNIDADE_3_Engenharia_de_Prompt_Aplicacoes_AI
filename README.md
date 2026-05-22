@@ -77,13 +77,18 @@ Realizamos testes frequentes, revisões de código e otimizações manuais nas p
 
 ## 👥 Colaboração
 
-- ### Samuel Davi:
+- ### Samuel:
 * Idealização do projeto
 * Criação do prompt inicial
 
 - ### Miguel:
 * Aprimoramentos do código usando o Claude
 * Refinação do prompt
+
+- ### Lucas:
+* Aprimoramentos do código usando o Claude
+* Refinação do prompt
+
 
 ---
 
