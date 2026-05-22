@@ -1,4 +1,4 @@
-# Sente a Quadra! Perder jogos, nunca mais.
+# Sente a Quadra! Perder jogos? Nunca mais!
 # Projeto Módulo 3 – Vibecode/No Code
 # Equipe: Lucas Gonçalves, Miguel Henrique, Samuel Davi
 
