@@ -26,12 +26,7 @@ O protótipo funciona como uma plataforma interativa onde o usuário escolhe seu
 
 ---
 
-## ⚙️ Plataforma Utilizada
-
-- ### VS Code
-
-- Motivo da escolha:
-Ele oferece um ambiente leve, rápido e completo para desenvolvimento, com suporte a diversas linguagens, terminal integrado, extensões, organização de arquivos e ferramentas que facilitam a criação, teste e manutenção do site de forma mais prática e produtiva.
+## ⚙️ Ferramentas VIBE CODE e NO CODE Utilizada
 
 - ### Open IA ChatGPT
 
