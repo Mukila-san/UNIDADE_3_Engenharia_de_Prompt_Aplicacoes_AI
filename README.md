@@ -19,7 +19,7 @@ Ajudar fãs brasileiros da NBA a encontrarem facilmente jogos do seu time favori
 ## 🖥️ Protótipo
 
 Link do protótipo:
-https://github.com/GuilhermeGPF0601/engenhariaDePromptAplicacoesAI/tree/main/projetoModulo3
+https://github.com/GuilhermeGPF0601/engenhariaDePromptAplicacoesAI/tree/main/projetoModulo3](https://cheery-buttercream-c35f2d.netlify.app/
 
 O protótipo funciona como uma plataforma interativa onde o usuário escolhe seu time ou partida da NBA e visualiza informações completas do jogo, como data, horário e local. A partir dessa seleção, o sistema recomenda voos do Brasil para os EUA que permitam chegar com pelo menos 24 horas de antecedência, exibindo opções de companhias aéreas, horários, escalas e preços em uma interface moderna, responsiva e inspirada em sites de viagens e na identidade visual da NBA.
 
