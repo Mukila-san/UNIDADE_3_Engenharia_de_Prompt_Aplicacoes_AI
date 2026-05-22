@@ -109,4 +109,5 @@ Professor(a): Kadidja Valéria
 - Adicionar mais funcionalidades no site, para curiosos e entusiastas
 - Integrar links de sites de companhias aéreas em nosso site, para atualizações ao vivo das passagens
 - Integrar o calendário real dos jogos da NBA, para atualizações ao vivo dos jogos
+- Integrar ferramenta de Low Code para demais modificações no site
   
