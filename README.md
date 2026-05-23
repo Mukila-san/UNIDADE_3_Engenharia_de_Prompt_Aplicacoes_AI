@@ -88,11 +88,12 @@ Realizamos testes frequentes, revisões de código e otimizações manuais nas p
 
 - ### Miguel:
 * Aprimoramentos do código usando o Claude
+* Geração low code da tela do site usando CodeSandbox 
 * Refinação do prompt
 
 - ### Lucas:
-* Aprimoramentos do código usando o Claude
-* Refinação do prompt
+* Registros das imagens
+* Escrita do relatório
 
 
 ---
