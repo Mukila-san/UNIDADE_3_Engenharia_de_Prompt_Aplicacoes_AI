@@ -28,17 +28,17 @@ O protótipo funciona como uma plataforma interativa onde o usuário escolhe seu
 
 ## ⚙️ Ferramentas VIBE CODE, NO CODE e LOW CODE Utilizada
 
-- ### Open IA ChatGPT (VIBE CODE)
+- ### Open IA ChatGPT 
 
 - Motivo da escolha:
 Transforma uma ideia inicial em uma descrição completa, organizada e detalhada, facilitando o desenvolvimento do protótipo. A IA consegue estruturar funcionalidades, definir identidade visual, sugerir tecnologias, melhorar a experiência do usuário e deixar o prompt mais claro para ferramentas de criação de sites, designers ou desenvolvedores, economizando tempo e aumentando a qualidade do resultado final.
 
-- ### Claude (NO CODE)
+- ### Claude 
 
 - Motivo da escolha:
 Acelera o desenvolvimento, ajudando a gerar componentes, estruturas de páginas, estilos e funcionalidades de forma rápida e organizada. A IA auxilia na criação de códigos mais limpos, na sugestão de melhorias de interface e experiência do usuário, além de facilitar correções e otimizações durante o desenvolvimento do projeto.
 
-- ### Code Sandbox.io (LOW CODE)
+- ### Code Sandbox.io
 
 - Motivo da escolha:
 - É uma plataforma online que permite criar e testar projetos HTML, CSS e JavaScript rapidamente, sem configurar ambiente local. Ele facilita a prototipagem visual, geração de layouts e imagens a partir de código. É considerado uma abordagem low-code porque simplifica infraestrutura e execução, mesmo exigindo programação. Também é útil para compartilhar projetos e iterar ideias de forma rápida.
