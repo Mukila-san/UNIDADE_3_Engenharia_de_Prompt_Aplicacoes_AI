@@ -1,5 +1,5 @@
 # Sente a Quadra! Perder jogos? Nunca mais!
-# Projeto Módulo 3 – Low Code/Vibecode/No Code
+# Projeto Módulo 3 – Low Code/Vibecode/No Code.
 # Equipe: Lucas Gonçalves, Miguel Henrique, Samuel Davi.
 
 ## 📌 Desafio Escolhido
